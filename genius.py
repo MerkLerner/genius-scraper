@@ -14,7 +14,7 @@ import requests
 from bs4 import BeautifulSoup
 
 base_url = 'http://api.genius.com'
-headers = {'Authorization': 'Bearer plx7z1BZTgIXRTNAxjsdsxbAOnj5HwM9Dx2PoZd9zv81VTxzRXOHWbjr1g05M5ce'}
+headers = {'Authorization': 'Bearer TOKEN'}
 
 artist_name = "Tom Misch"
 song_title = "in the midst of it all"
